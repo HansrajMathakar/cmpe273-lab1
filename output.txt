@@ -1,0 +1,18 @@
+1. Output of http_call.py 
+
+============== RESTART: D:\Fall 2018\CMPE 273\lab1\http_call.py ==============
+Mon, 03 Sep 2018 02:15:34 GMT
+Mon, 03 Sep 2018 02:15:35 GMT
+Mon, 03 Sep 2018 02:15:36 GMT
+>>> 
+
+
+
+
+2. Output of http_async_call.py
+
+=========== RESTART: D:\Fall 2018\CMPE 273\lab1\http_async_call.py ===========
+Mon, 03 Sep 2018 02:14:14 GMT
+Mon, 03 Sep 2018 02:14:14 GMT
+Mon, 03 Sep 2018 02:14:14 GMT
+>>>
